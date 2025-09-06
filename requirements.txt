@@ -1,0 +1,4 @@
+Pillow
+keyboard
+sounddevice
+numpy
